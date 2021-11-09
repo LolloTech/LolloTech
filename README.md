@@ -1,4 +1,4 @@
--> 👋 Hi, I’m @LolloTech, a Full Stack Engineer | Software Engineer with 4 years of fulltime work experience (but I wrote my first helloworld in C, at 17 years old). I'm currently working full-time 40h/5d, and pursuing a M.Sc degree in Computer Science, @UniBS.
+-> 👋 Hi, I’m @LolloTech, a Full Stack Engineer | Software Engineer with 4 years of fulltime work experience (but I wrote my first helloworld in C, at 17 years old; now I'm 28). I'm currently working full-time 40h/5d, and pursuing a M.Sc degree in Computer Science, @UniBS.
 
 -> 💖 Async concurrency, with javascript @node.js; currently trying to explore some python async code.
 
