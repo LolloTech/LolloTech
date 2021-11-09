@@ -2,6 +2,8 @@
 
 -> 👀 I’m interested in find some fun while working on my projects and at my workplace. It is true that working is not always funny, but I think that we have to find some fun  while doing our day-to-day life.
 
+-> 💖 Async concurrency, with javascript @node.js; currently trying to explore some python async code.
+
 -> 🌱 I’m currently learning how to live in this world, while trying to be always the best as I can be in all aspects of my life.
 
 -> 📫 How to reach me : todo.
